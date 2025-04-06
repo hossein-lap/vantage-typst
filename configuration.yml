@@ -1,0 +1,182 @@
+contacts:
+  name: Hossein Esmailzadeh
+  title: DevOps Engineer
+  email: hosteam01@gmail.com
+  address: "Tehran, Iran"
+  location: Iran
+  phone: "+98 920 382 3323"
+  linkedin:
+    url: https://www.linkedin.com/in/hossein-esmail/
+    text: hossein-esmail
+  gitlab:
+    url: https://gitlab.com/primejade/
+    text: "primejade"
+  github:
+    url: https://github.com/hossein-lap/
+    text: "hossein-lap"
+  website:
+    url: https://hossein-lap.github.io
+    text: website
+
+position: DevOps Engineer
+
+tagline:
+  Experienced Cloud DevOps Engineer with a strong background in Kubernetes, Docker, and AWS.
+  Proficient in implementing CI/CD pipelines and GitOps methodologies for cloud infrastructure management.
+  Skilled in Linux systems administration and troubleshooting.
+  Committed to continuous learning and keeping up-to-date with emerging technologies.
+  Proven track record of delivering high-quality solutions and collaborating effectively with cross‑functional teams
+
+jobs:
+  - position: DevOps Engineer
+    company:
+      name: Sina Communication Systems Co
+      link: ''
+    product:
+      name: Full-time
+      link: ''
+    description:
+      - Write and manage Jenkins pipelines
+      - Configuring agents and VMs for build and deploy
+      - Monitoring various micro-services
+      - Manual HA system
+      - Basic system hardening
+    from: "Aug 2024"
+    to: "Present"
+    tags:
+      - ''
+    location: Tehran, Iran
+  - position: DevOps Engineer
+    company:
+      name: Self-employed
+      link: ''
+    product:
+      name: Hybrid
+      link: ''
+    description:
+      - Deploying web-apps on kubernetes
+      - Custom nginx load-balancer
+      - Redis cache storage
+      - Storage volumns
+    from: "Apr 2022"
+    to: "Jul 2024"
+    tags:
+      - ''
+    location: Remote
+  - position: Automation and Vitalization Specialist
+    company:
+      name: RPS Cloud
+      link: ''
+    product:
+      name: Remote
+      link: ''
+    description:
+      - Manage and clustering proxmox hyper-visor
+      - Port-forwarding using IPTables
+      - Automated shell script to use proxmox's API
+    from: "Jun 2022"
+    to: "Sep 2022"
+    tags:
+      - ''
+    location: Remote
+  - position: Linux System Administrator
+    company:
+      name: Self-employed
+      link: ''
+    product:
+      name: Hybrid
+      link: ''
+    description:
+      - Setup web-servers (e.g nginx, apache) on various Linux hosts
+      - Setup git and SMTP/IMAP servers
+      - Troubleshooting system and package maanger
+      - Write custom services
+    from: "Sep 2020"
+    to: "Sep 2024"
+    tags:
+      - ''
+    location: Remote
+
+projects:
+  - name: "Resume Template"
+    text: gitlab.com/primejade/hos-resume
+    url: https://gitlab.com/primejade/hos-resume
+    description: 
+    - Automated CI/CD pipeline usin Gitlab CI
+    - Pipline triggers on new tags and not commits
+
+education:
+  - place:
+      name: Azad University
+      link: ""
+    degree: "B.Sc."
+    major: Computer Science
+    track: Computer Science
+    from: "2020"
+    to: "2024"
+    location: ""
+
+# technical_expertise:
+#   - name: Kotlin
+#     level: 4
+#   - name: Angular
+#     level: 5
+#   - name: Ruby on Rails
+#     level: 5
+#   - name: Flutter
+#     level: 4
+#   - name: Go
+#     level: 4
+#   - name: Subversion
+#     level: 5
+
+skills:
+  - Automation
+  - CI/CD
+  - DevOps
+  - GitOps
+  - Software as a Service
+  - Vitalization
+
+tools:
+  - Ansible
+  - Docker
+  - Helm
+  - Jenkins
+  - Kubernetes
+  - LVM
+  - Linux
+  - Nginx
+  - QEMU/KVM
+  - Terraform
+
+programming:
+  - Bash
+  - C
+  - Go
+  - Groovy
+  - Lua
+  - Perl
+  - Python
+
+languages:
+  - English
+
+achievements:
+  - name: "LPIC - 3"
+    description: "Vitalization and Containerization"
+  # - name: "LPIC-3"
+  #   description: "Security"
+  # - name: "LPIC-3"
+  #   description: "High Availability and Storage Cluster"
+  - name: "RedHat Certified Engineer"
+    description: ""
+  - name: "RedHat Certified System Administrator"
+    description: ""
+  - name: "SUSE Certified Administrator"
+    description: ""
+  - name: "LPIC - 2"
+    description: ""
+  - name: "LPIC - 1"
+    description: ""
+
